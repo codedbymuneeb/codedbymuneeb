@@ -1,14 +1,21 @@
-<!-- Banner Image -->
-<img src="https://github.com/codedbymuneeb/M-MUNEEB/blob/main/pexels-pixabay-373543.jpg" width="100%" alt="Banner" />
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/codedbymuneeb/M-MUNEEB/blob/main/pexels-pixabay-373543.jpg" width="100%" alt="Banner" />
+</p>
 
+<!-- Heading and Tagline -->
 <h1 align="center">Hi 👋, I'm Muneeb Tariq</h1>
 <h3 align="center">🚀 Passionate AI Engineer | ML & DL Enthusiast from Pakistan</h3>
 
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codedbymuneeb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<!-- Right GIF Image -->
+<p align="right">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+</p>
 
 ---
 
@@ -19,7 +26,6 @@
 ---
 
 ### 🔗 Connect with me:
-
 <p>
   <a href="https://fb.com/mian.muneeb" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
@@ -32,7 +38,6 @@
 ---
 
 ### 🛠️ Languages & Tools:
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
@@ -51,14 +56,46 @@
 ---
 
 ### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbymuneeb&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbymuneeb&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbymuneeb&layout=compact&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbymuneeb&theme=radical" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbymuneeb&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codedbymuneeb&theme=radical" />
 </p>
 
+---
+
+### ✍️ AI Quote
+<p align="center"><em>"AI is not about man versus machine, but rather man with machine."</em></p>
+
+---
+
+### 🐍 Snake Animation
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌐 More Socials
+<p align="center">
+  <a href="https://instagram.com/_.mian_muneeb">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/codedbymuneeb">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@codedbymuneeb">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>
+</p>
+
+<!-- Built with ❤️ using GPRM -->
