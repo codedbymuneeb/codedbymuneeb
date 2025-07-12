@@ -27,11 +27,14 @@
 
 ### 🔗 Connect with me:
 <p>
-  <a href="https://fb.com/mian.muneeb" target="_blank">
+  <a href="https://www.facebook.com/mian.muneeb.266276" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_.mian_muneeb" target="_blank">
+  <a href="https://www.instagram.com/_.mian_muneeb" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mian-muneeb-9580a72a9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
   </a>
 </p>
 
@@ -87,14 +90,14 @@
 
 ### 🌐 More Socials
 <p align="center">
-  <a href="https://instagram.com/_.mian_muneeb">
+  <a href="https://www.instagram.com/_.mian_muneeb">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/codedbymuneeb">
+  <a href="https://www.linkedin.com/in/mian-muneeb-9580a72a9/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@codedbymuneeb">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  <a href="https://www.facebook.com/mian.muneeb.266276">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" />
   </a>
 </p>
 
