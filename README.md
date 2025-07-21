@@ -1,7 +1,4 @@
-<!-- 🌟 Profile Banner -->
-<p align="center">
-  <img src="https://github.com/codedbymuneeb/M-MUNEEB/blob/main/pexels-pixabay-373543.jpg" width="100%" alt="Banner" />
-</p>
+
 
 <!-- 🚀 AI Portfolio Button -->
 <p align="center">
