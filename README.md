@@ -1,12 +1,4 @@
 
-
-<!-- 🚀 AI Portfolio Button -->
-<p align="center">
-  <a href="https://muneebs-ai-vision.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20AI%20Portfolio-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit AI Portfolio"/>
-  </a>
-</p>
-
 <!-- 👋 Heading and Tagline -->
 <h1 align="center">Hi 👋, I'm Muneeb Tariq</h1>
 <h3 align="center">🚀 Passionate AI Engineer | ML & DL Enthusiast from Pakistan</h3>
@@ -44,6 +36,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+!-- 🚀 AI Portfolio Button -->
+<p align="center">
+  <a href="https://muneebs-ai-vision.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20AI%20Portfolio-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit AI Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
