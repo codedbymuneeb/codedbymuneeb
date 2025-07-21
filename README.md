@@ -1,47 +1,58 @@
-<!-- Profile Banner -->
+<!-- 🌟 Profile Banner -->
 <p align="center">
   <img src="https://github.com/codedbymuneeb/M-MUNEEB/blob/main/pexels-pixabay-373543.jpg" width="100%" alt="Banner" />
 </p>
 
-<!-- Heading and Tagline -->
+<!-- 🚀 AI Portfolio Button -->
+<p align="center">
+  <a href="https://muneebs-ai-vision.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20AI%20Portfolio-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit AI Portfolio"/>
+  </a>
+</p>
+
+<!-- 👋 Heading and Tagline -->
 <h1 align="center">Hi 👋, I'm Muneeb Tariq</h1>
 <h3 align="center">🚀 Passionate AI Engineer | ML & DL Enthusiast from Pakistan</h3>
 
-<!-- Profile Views -->
+<!-- 👁️‍🗨️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codedbymuneeb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Right GIF Image -->
-<p align="right">
+<!-- 💻 Coding GIF -->
+<p align="center">
   <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 </p>
 
 ---
 
-- 🌱 Currently learning: **Machine Learning**, **Deep Learning**, **Stock Trading**
-- 📫 Reach me at: **mianmuneeb3322@gmail.com**
+### 🧠 About Me
+
+- 🌱 Currently learning: **Machine Learning**, **Deep Learning**, **Stock Trading**  
+- 📫 Reach me at: **mianmuneeb3322@gmail.com**  
 - ⚡ Fun fact: *"I'm a motivational speaker… without the motivation 😄"*
 
 ---
 
-### 🔗 Connect with me:
-<p>
+### 🔗 Connect with Me
+
+<p align="center">
   <a href="https://www.facebook.com/mian.muneeb.266276" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_.mian_muneeb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mian-muneeb-9580a72a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
+### 🛠️ Languages & Tools
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
@@ -58,7 +69,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codedbymuneeb&show_icons=true&theme=radical" />
   <br>
@@ -70,6 +82,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codedbymuneeb&theme=radical" />
 </p>
@@ -77,28 +90,17 @@
 ---
 
 ### ✍️ AI Quote
+
 <p align="center"><em>"AI is not about man versus machine, but rather man with machine."</em></p>
 
 ---
 
 ### 🐍 Snake Animation
+
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 🌐 More Socials
-<p align="center">
-  <a href="https://www.instagram.com/_.mian_muneeb">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mian-muneeb-9580a72a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mian.muneeb.266276">
-    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<!-- Built with ❤️ using GPRM -->
+<!-- Built with ❤️ by Muneeb using GPRM -->
