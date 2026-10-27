@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://muneeb-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-muneeb--portfolio--nine.vercel.app-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Portfolio website"></a>
   <a href="https://github.com/codedbymuneeb"><img src="https://img.shields.io/badge/GitHub-codedbymuneeb-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-YOUR--LINKEDIN--USERNAME-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-YOUR--EMAIL@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mian-muneeb/"><img src="https://img.shields.io/badge/LinkedIn-Mian_Muneeb-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:mianmuneeb3322@gmail.com"><img src="https://img.shields.io/badge/Email-mianmuneeb3322@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
 </p>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Muneeb.">
@@ -17,32 +17,32 @@
 
 <img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
 
-<a href="https://github.com/codedbymuneeb/SPEECH-EMOTION-REPO">
+<a href="https://github.com/codedbymuneeb/1-100-Days-of-Deep-Learning">
   <img src="assets/project-speech-emotion.svg" width="100%" alt="Speech Emotion Recognition: detects emotion from a speaker's voice using audio features and a trained deep learning model.">
 </a>
 <p align="center">
-  <a href="https://github.com/codedbymuneeb/SPEECH-EMOTION-REPO"><img src="https://img.shields.io/badge/Repository-Speech_Emotion_Recognition-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Speech Emotion Recognition repository"></a>
+  <a href="https://github.com/codedbymuneeb/1-100-Days-of-Deep-Learning"><img src="https://img.shields.io/badge/Repository-Speech_Emotion_Recognition-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Speech Emotion Recognition repository"></a>
 </p>
 
-<a href="https://github.com/codedbymuneeb/LLM-CHATBOT-REPO">
+<a href="https://github.com/codedbymuneeb/Generative-Ai-with-Langhcain">
   <img src="assets/project-llm-chatbot.svg" width="100%" alt="LLM Chatbot: a conversational assistant built on large language models with LangChain and context memory.">
 </a>
 <p align="center">
-  <a href="https://github.com/codedbymuneeb/LLM-CHATBOT-REPO"><img src="https://img.shields.io/badge/Repository-LLM_Chatbot-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="LLM Chatbot repository"></a>
+  <a href="https://github.com/codedbymuneeb/Generative-Ai-with-Langhcain"><img src="https://img.shields.io/badge/Repository-LLM_Chatbot-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="LLM Chatbot repository"></a>
 </p>
 
-<a href="https://github.com/codedbymuneeb/COMPUTER-VISION-REPO">
+<a href="https://github.com/codedbymuneeb/COMPUTER-VISION">
   <img src="assets/project-computer-vision.svg" width="100%" alt="Computer Vision: real-time image and video processing and object tracking pipelines built with OpenCV.">
 </a>
 <p align="center">
-  <a href="https://github.com/codedbymuneeb/COMPUTER-VISION-REPO"><img src="https://img.shields.io/badge/Repository-Computer_Vision-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Computer Vision repository"></a>
+  <a href="https://github.com/codedbymuneeb/COMPUTER-VISION"><img src="https://img.shields.io/badge/Repository-Computer_Vision-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Computer Vision repository"></a>
 </p>
 
-<a href="https://github.com/codedbymuneeb/US-ACCIDENTS-REPO">
+<a href="https://github.com/codedbymuneeb/100-Days-of-Machine--Learning">
   <img src="assets/project-us-accidents.svg" width="100%" alt="US Accidents Analysis: comprehensive exploratory data analysis with 18+ graphs, organized chapter by chapter.">
 </a>
 <p align="center">
-  <a href="https://github.com/codedbymuneeb/US-ACCIDENTS-REPO"><img src="https://img.shields.io/badge/Repository-US_Accidents_Analysis-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="US Accidents Analysis repository"></a>
+  <a href="https://github.com/codedbymuneeb/100-Days-of-Machine--Learning"><img src="https://img.shields.io/badge/Repository-US_Accidents_Analysis-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="US Accidents Analysis repository"></a>
 </p>
 
 <img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
@@ -69,8 +69,8 @@
 <img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
 
 <p align="center">
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:mianmuneeb3322@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mian-muneeb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
   <a href="https://github.com/codedbymuneeb"><img src="https://img.shields.io/badge/GitHub-codedbymuneeb-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
   <a href="https://muneeb-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Portfolio website"></a>
 </p>
