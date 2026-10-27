@@ -76,9 +76,9 @@
 
     <text class="ach-mono" x="38" y="44" font-size="11" letter-spacing="2.6" fill="#C77B9B">ACADEMIC DISTINCTION &#183; ARTIFICIAL INTELLIGENCE</text>
     <text class="ach-serif" x="36" y="98" font-size="38" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Associate Degree in AI</text>
-    <text class="ach-serif" x="36" y="132" font-size="22" font-style="italic" fill="#E5B5C7">CGPA 3.7 / 4.0 &#183; Completed Apr 2024 &#x2014; Apr 2026</text>
+    <text class="ach-serif" x="36" y="132" font-size="22" font-style="italic" fill="#E5B5C7">CGPA 3.7 / 4.0 &#183; Completed Apr 2024 &#8211; Apr 2026</text>
     <text class="ach-sans" x="38" y="166" font-size="14.5" fill="#B6A3AC">Advanced coursework in Machine Learning, Neural Networks, Computer Vision, and Applied Mathematics.</text>
-    <text class="ach-mono" x="38" y="212" font-size="11" letter-spacing="1.5" fill="#C77B9B">NOW PURSUING &#x21B3; <tspan fill="#F8F0F3">BSCS at Minhaj University Lahore (2026&#x2014;2028)</tspan></text>
+    <text class="ach-mono" x="38" y="212" font-size="11" letter-spacing="1.5" fill="#C77B9B">NOW PURSUING &#8594; <tspan fill="#F8F0F3">BSCS at Minhaj University Lahore (2026&#8211;2028)</tspan></text>
   </g></g>
 
   <!-- Card 2: CampusX ML and DL Trainee -->
@@ -108,28 +108,28 @@
     <line class="ach-draw" x1="576" y1="20" x2="576" y2="88" stroke="#C77B9B" stroke-opacity=".2"/>
     <line class="ach-draw" x1="864" y1="20" x2="864" y2="88" stroke="#C77B9B" stroke-opacity=".2"/>
 
-    <g transform="translate(36 24)">
-      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">COURSERA VERIFIED</text>
-      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">3 Specializations</text>
-      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Vanderbilt &#183; IBM &#183; Packt</text>
+    <g transform="translate(32 24)">
+      <text class="ach-mono" font-size="9.5" letter-spacing="1.8" fill="#C77B9B">COURSERA VERIFIED</text>
+      <text class="ach-serif" y="38" font-size="24" font-weight="300" letter-spacing="-0.5" fill="#F8F0F3">3 Specializations</text>
+      <text class="ach-sans" y="58" font-size="11.5" fill="#B6A3AC">Vanderbilt &#183; IBM &#183; Packt</text>
     </g>
 
-    <g transform="translate(324 24)">
-      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">DATA VISUALIZATION</text>
-      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">18+ In-Depth Graphs</text>
-      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">US Accidents chapter-by-chapter EDA</text>
+    <g transform="translate(320 24)">
+      <text class="ach-mono" font-size="9.5" letter-spacing="1.8" fill="#C77B9B">DATA VISUALIZATION</text>
+      <text class="ach-serif" y="38" font-size="24" font-weight="300" letter-spacing="-0.5" fill="#F8F0F3">18+ EDA Charts</text>
+      <text class="ach-sans" y="58" font-size="11.5" fill="#B6A3AC">US Accidents in-depth study</text>
     </g>
 
-    <g transform="translate(612 24)">
-      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">INTELLIGENCE STACK</text>
-      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">Audio ML &amp; LLMs</text>
-      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Speech Emotion &amp; LangChain Chatbots</text>
+    <g transform="translate(608 24)">
+      <text class="ach-mono" font-size="9.5" letter-spacing="1.8" fill="#C77B9B">INTELLIGENCE STACK</text>
+      <text class="ach-serif" y="38" font-size="24" font-weight="300" letter-spacing="-0.5" fill="#F8F0F3">Audio ML &amp; LLMs</text>
+      <text class="ach-sans" y="58" font-size="11.5" fill="#B6A3AC">Speech Emotion &amp; Chatbots</text>
     </g>
 
-    <g transform="translate(900 24)">
-      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">AUTONOMOUS AGENTS</text>
-      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">n8n &amp; MT5 Trading</text>
-      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Automated pipelines &amp; free market APIs</text>
+    <g transform="translate(896 24)">
+      <text class="ach-mono" font-size="9.5" letter-spacing="1.8" fill="#C77B9B">AUTONOMOUS AGENTS</text>
+      <text class="ach-serif" y="38" font-size="24" font-weight="300" letter-spacing="-0.5" fill="#F8F0F3">n8n &amp; MT5 Trading</text>
+      <text class="ach-sans" y="58" font-size="11.5" fill="#B6A3AC">Automated pipelines &amp; APIs</text>
     </g>
   </g></g>
 </svg>

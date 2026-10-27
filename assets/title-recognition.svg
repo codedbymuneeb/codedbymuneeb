@@ -30,10 +30,10 @@
     <text class="tr-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#C77B9B"><tspan fill="#E5B5C7">02</tspan>   RECOGNITION</text>
   </g>
   <g class="tr-in tr-d2">
-    <text class="tr-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Recognition - <tspan font-style="italic" fill="url(#tr-sheen)">Proof, on the record.</tspan></text>
+    <text class="tr-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Proof, <tspan font-style="italic" fill="url(#tr-sheen)">on the record.</tspan></text>
   </g>
   <g class="tr-in tr-d3">
-    <text class="tr-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">MUNEEB TARIQ</text>
+    <text class="tr-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">ACADEMICS &#183; CERTIFICATIONS &#183; AI TRAINING</text>
   </g>
   <path class="tr-draw" d="M40 106 H1160" stroke="url(#tr-line)" stroke-width="1"/>
   <circle cx="40" cy="106" r="7" fill="url(#tr-pulse)" opacity="0">
