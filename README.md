@@ -49,13 +49,7 @@
 <img src="assets/tech-constellation.svg" width="100%" alt="Tech stack: Python. AI & ML: Machine Learning, Deep Learning, OpenCV, LangChain, Agentic AI. Data: Pandas, NumPy, Matplotlib, Seaborn, EDA. Automation: n8n, MT5. Tools: Git, GitHub, VS Code, Jupyter. Web: Vercel.">
 
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
-<a href="https://github.com/codedbymuneeb/codedbymuneeb/actions/workflows/snake.yml">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbymuneeb/codedbymuneeb/output/contribution-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbymuneeb/codedbymuneeb/output/contribution-snake.svg">
-    <img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating my real public GitHub contributions over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
-  </picture>
-</a>
+<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating my real public GitHub contributions over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codedbymuneeb&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for codedbymuneeb">
