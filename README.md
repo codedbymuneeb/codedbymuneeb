@@ -1,12 +1,12 @@
 <a href="https://muneeb-portfolio-nine.vercel.app">
-  <img src="assets/hero.svg" width="100%" alt="Muneeb Tariq — AI & ML Engineer and Web Developer. Engineering intelligence. Building real projects.">
+  <img src="assets/hero.svg" width="100%" alt="M.Muneeb Tariq — AI & ML Engineer and Web Developer. Engineering intelligence. Building real projects.">
 </a>
 
 <p align="center">
   <a href="https://muneeb-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-muneeb--portfolio--nine.vercel.app-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Portfolio website"></a>
   <a href="https://github.com/codedbymuneeb"><img src="https://img.shields.io/badge/GitHub-codedbymuneeb-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Muneeb_Tariq-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mian-muneeb/"><img src="https://img.shields.io/badge/LinkedIn-Mian_Muneeb-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:mianmuneeb3322@gmail.com"><img src="https://img.shields.io/badge/Email-mianmuneeb3322@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
 </p>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Muneeb.">
@@ -41,8 +41,8 @@
 <img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
 
 <p align="center">
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:mianmuneeb3322@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mian-muneeb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin" alt="LinkedIn profile"></a>
   <a href="https://github.com/codedbymuneeb"><img src="https://img.shields.io/badge/GitHub-codedbymuneeb-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="GitHub profile"></a>
   <a href="https://muneeb-portfolio-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Portfolio website"></a>
 </p>

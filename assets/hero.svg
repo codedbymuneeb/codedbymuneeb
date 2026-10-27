@@ -1,66 +1,182 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-  <radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".6"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
-  <radialGradient id="gl2"><stop offset="0" stop-color="#C77B9B" stop-opacity=".35"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/></radialGradient>
-  <clipPath id="portraitClip"><circle cx="940" cy="240" r="175"/></clipPath>
-  <filter id="glow"><feGaussianBlur stdDeviation="8" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">M.Muneeb Tariq — Engineering intelligence. Building real projects.</title>
+  <desc id="hero-desc">AI &amp; ML Engineer and Web Developer. BSCS at Minhaj University Lahore. CampusX ML &amp; DL Trainee.</desc>
 
-<!-- Background -->
-<rect width="1200" height="480" fill="url(#bg)"/>
+  <defs>
+    <radialGradient id="hero-bg" cx="72%" cy="38%" r="80%">
+      <stop offset="0" stop-color="#2A0E1B"/>
+      <stop offset=".55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </radialGradient>
+    <radialGradient id="hero-light-a" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#701A3D" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hero-light-b" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hero-name-grad" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="420" y2="0">
+      <stop offset="0" stop-color="#F8F0F3"/>
+      <stop offset=".55" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
+    <linearGradient id="hero-sheen" gradientUnits="userSpaceOnUse" x1="-260" y1="0" x2="-40" y2="0">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;760 0;760 0" keyTimes="0;.35;1" dur="8s" begin="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="hero-scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E5B5C7" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hero-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#E5B5C7"/>
+      <stop offset=".75" stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hero-orbit-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity=".05"/>
+    </linearGradient>
+    <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#C77B9B" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="hero-grid-fade" cx="68%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="hero-grid-mask">
+      <rect width="1200" height="480" fill="url(#hero-grid-fade)"/>
+    </mask>
+    <filter id="hero-glow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="hero-clip"><rect width="1200" height="480" rx="20"/></clipPath>
+  </defs>
 
-<!-- Ambient glows -->
-<circle cx="200" cy="400" r="220" fill="url(#gl)"><animate attributeName="r" values="220;270;220" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;.9;.5" dur="8s" repeatCount="indefinite"/></circle>
-<circle cx="940" cy="240" r="230" fill="url(#gl)"><animate attributeName="r" values="230;270;230" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="6s" repeatCount="indefinite"/></circle>
-<circle cx="600" cy="100" r="120" fill="url(#gl2)"><animate attributeName="r" values="120;160;120" dur="10s" repeatCount="indefinite"/></circle>
+  <style>
+    .hero-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .hero-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .hero-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
 
-<!-- Decorative rotating ring around portrait -->
-<circle cx="940" cy="240" r="198" fill="none" stroke="#701A3D" stroke-width="1.5" stroke-dasharray="8 14" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 940 240" to="360 940 240" dur="22s" repeatCount="indefinite"/></circle>
-<circle cx="940" cy="240" r="214" fill="none" stroke="#C77B9B" stroke-width="1" stroke-dasharray="3 20" opacity=".4"><animateTransform attributeName="transform" type="rotate" from="360 940 240" to="0 940 240" dur="30s" repeatCount="indefinite"/></circle>
+    .hero-rise { animation: hero-rise 1.4s cubic-bezier(.16,1,.3,1) both; }
+    .hero-fade { animation: hero-fade 1.6s cubic-bezier(.16,1,.3,1) both; }
+    .d1 { animation-delay: .15s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; }
+    .d4 { animation-delay: .9s; } .d5 { animation-delay: 1.2s; } .d6 { animation-delay: 1.5s; }
 
-<!-- Portrait circle border -->
-<circle cx="940" cy="240" r="178" fill="none" stroke="url(#ac)" stroke-width="4" filter="url(#glow)"/>
-<circle cx="940" cy="240" r="178" fill="#451126" fill-opacity=".5"/>
+    .hero-draw { stroke-dasharray: 900; stroke-dashoffset: 900; animation: hero-draw 2.4s cubic-bezier(.65,0,.35,1) .9s forwards; }
+    .hero-signal { stroke-dasharray: 500; stroke-dashoffset: 500; animation: hero-draw 2.2s cubic-bezier(.65,0,.35,1) 2.2s forwards; }
 
-<!-- GitHub profile picture (codedbymuneeb) -->
-<image href="https://avatars.githubusercontent.com/codedbymuneeb" x="763" y="63" width="354" height="354" clip-path="url(#portraitClip)" preserveAspectRatio="xMidYMid slice"/>
+    @keyframes hero-rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    @keyframes hero-fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes hero-draw { to { stroke-dashoffset: 0; } }
 
-<!-- Floating dots / particles -->
-<circle cx="720" cy="80" r="3" fill="#C77B9B" opacity=".6"><animate attributeName="opacity" values=".3;.8;.3" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="1160" cy="160" r="4" fill="#701A3D" opacity=".7"><animate attributeName="opacity" values=".4;1;.4" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="700" cy="420" r="2.5" fill="#E5B5C7" opacity=".5"><animate attributeName="opacity" values=".2;.7;.2" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="1150" cy="390" r="3" fill="#C77B9B" opacity=".5"><animate attributeName="opacity" values=".3;.8;.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    @media (prefers-reduced-motion: reduce) {
+      .hero-rise, .hero-fade { animation: none; }
+      .hero-draw, .hero-signal { animation: none; stroke-dashoffset: 0; }
+    }
+  </style>
 
-<!-- Text content (left side) -->
-<!-- Tagline -->
-<text x="70" y="90" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" letter-spacing="7" fill="#C77B9B" opacity="0">AI &amp; ML ENGINEER · WEB DEVELOPER<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/></text>
+  <g clip-path="url(#hero-clip)">
+    <!-- Canvas -->
+    <rect width="1200" height="480" fill="url(#hero-bg)"/>
 
-<!-- Name -->
-<text x="70" y="200" font-family="Georgia,'Times New Roman',serif" font-size="82" fill="#F8F0F3" opacity="0">Muneeb Tariq<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.6s" fill="freeze"/></text>
+    <!-- Slow light fields -->
+    <ellipse cx="900" cy="140" rx="420" ry="300" fill="url(#hero-light-a)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -60 30; 0 0" dur="22s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
+    </ellipse>
+    <ellipse cx="180" cy="460" rx="360" ry="220" fill="url(#hero-light-b)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 70 -25; 0 0" dur="28s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
+    </ellipse>
 
-<!-- Gradient underline -->
-<rect x="70" y="218" width="0" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" from="0" to="460" dur="1.4s" begin="1s" fill="freeze"/></rect>
+    <!-- Technical grid -->
+    <rect width="1200" height="480" fill="url(#hero-grid)" mask="url(#hero-grid-mask)"/>
 
-<!-- Taglines -->
-<text x="70" y="278" font-family="Georgia,'Times New Roman',serif" font-size="30" font-style="italic" fill="#E5B5C7" opacity="0">Engineering intelligence.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.4s" fill="freeze"/></text>
-<text x="70" y="322" font-family="Georgia,'Times New Roman',serif" font-size="30" font-style="italic" fill="#C77B9B" opacity="0">Designing real-world AI systems.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.8s" fill="freeze"/></text>
+    <!-- Slow scan line -->
+    <rect x="0" y="-140" width="1200" height="140" fill="url(#hero-scan)">
+      <animate attributeName="y" values="-140;480" dur="11s" begin="2s" repeatCount="indefinite"/>
+    </rect>
 
-<!-- Info pills -->
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.2s" fill="freeze"/>
-  <rect x="70" y="360" width="170" height="36" rx="18" fill="#451126" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="155" y="383" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#E5B5C7">📍 Lahore, PK</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.5s" fill="freeze"/>
-  <rect x="254" y="360" width="200" height="36" rx="18" fill="#451126" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="354" y="383" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#E5B5C7">🎓 BSCS @ MUL</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.8s" fill="freeze"/>
-  <rect x="468" y="360" width="200" height="36" rx="18" fill="#451126" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="568" y="383" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#E5B5C7">🤖 CampusX ML &amp; DL</text>
-</g>
+    <!-- Drifting particles -->
+    <g fill="#E5B5C7">
+      <circle cx="560" cy="120" r="1.4"><animate attributeName="opacity" values="0;.9;0" dur="4.2s" repeatCount="indefinite"/><animate attributeName="cy" values="120;96" dur="4.2s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="70" r="1.1"><animate attributeName="opacity" values="0;.8;0" dur="5.6s" begin="1s" repeatCount="indefinite"/><animate attributeName="cy" values="70;48" dur="5.6s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="380" r="1.6"><animate attributeName="opacity" values="0;.9;0" dur="4.8s" begin="2s" repeatCount="indefinite"/><animate attributeName="cy" values="380;352" dur="4.8s" begin="2s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="420" r="1.2"><animate attributeName="opacity" values="0;.7;0" dur="6s" begin=".5s" repeatCount="indefinite"/><animate attributeName="cy" values="420;396" dur="6s" begin=".5s" repeatCount="indefinite"/></circle>
+      <circle cx="1060" cy="60" r="1.3"><animate attributeName="opacity" values="0;.85;0" dur="5s" begin="3s" repeatCount="indefinite"/><animate attributeName="cy" values="60;40" dur="5s" begin="3s" repeatCount="indefinite"/></circle>
+      <circle cx="640" cy="250" r="1"><animate attributeName="opacity" values="0;.7;0" dur="4.4s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="cy" values="250;226" dur="4.4s" begin="2.5s" repeatCount="indefinite"/></circle>
+    </g>
 
-<!-- Bottom tagline -->
-<text x="70" y="448" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B6A3AC" opacity="0">Open to collaborate · Always learning · Building AI that actually works<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="3.2s" fill="freeze"/></text>
+    <!-- Orbital system around portrait area -->
+    <g transform="translate(965 232)" class="hero-fade d3">
+      <circle r="212" fill="none" stroke="#C77B9B" stroke-opacity=".1" stroke-dasharray="1 10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="140s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="190" fill="none" stroke="url(#hero-orbit-grad)" stroke-width="1"/>
+      <circle r="160" fill="none" stroke="#C77B9B" stroke-opacity=".16" stroke-dasharray="2 7"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="95s" repeatCount="indefinite"/>
+        <circle cx="0" cy="160" r="2.5" fill="#F8F0F3"/>
+        <circle cx="-160" cy="0" r="2" fill="#C77B9B" fill-opacity=".7"/>
+      </g>
+    </g>
+
+    <!-- Portrait placeholder — initials in elegant circle -->
+    <g transform="translate(965 232)">
+      <circle r="130" fill="#451126" fill-opacity=".6" stroke="#C77B9B" stroke-opacity=".3" stroke-width="2"/>
+      <text x="0" y="22" text-anchor="middle" class="hero-serif" font-size="80" fill="#E5B5C7" font-style="italic" opacity=".8">MT</text>
+    </g>
+
+    <!-- Left text block -->
+    <!-- Role label -->
+    <g class="hero-rise d1">
+      <text x="60" y="90" class="hero-sans" font-size="12" letter-spacing="6" fill="#C77B9B">AI &amp; ML ENGINEER · WEB DEVELOPER</text>
+    </g>
+
+    <!-- Name with gradient -->
+    <g class="hero-rise d2">
+      <text x="60" y="195" class="hero-serif" font-size="78" fill="url(#hero-name-grad)">M.Muneeb</text>
+      <text x="60" y="265" class="hero-serif" font-size="78" fill="url(#hero-name-grad)">Tariq</text>
+    </g>
+
+    <!-- Sheen over name -->
+    <text x="60" y="195" class="hero-serif" font-size="78" fill="url(#hero-sheen)">M.Muneeb</text>
+
+    <!-- Rule line -->
+    <line x1="60" y1="290" x2="480" y2="290" stroke="url(#hero-rule)" stroke-width="2" class="hero-draw"/>
+
+    <!-- Taglines -->
+    <g class="hero-rise d4">
+      <text x="60" y="330" class="hero-serif" font-size="26" font-style="italic" fill="#E5B5C7">Engineering intelligence.</text>
+    </g>
+    <g class="hero-rise d5">
+      <text x="60" y="370" class="hero-serif" font-size="26" font-style="italic" fill="#C77B9B">Building real projects.</text>
+    </g>
+
+    <!-- Info pills -->
+    <g class="hero-rise d6">
+      <rect x="60" y="400" width="140" height="32" rx="16" fill="#451126" fill-opacity=".7" stroke="#701A3D" stroke-width="1"/>
+      <text x="130" y="421" text-anchor="middle" class="hero-sans" font-size="12" fill="#E5B5C7">📍 Lahore, PK</text>
+
+      <rect x="214" y="400" width="178" height="32" rx="16" fill="#451126" fill-opacity=".7" stroke="#701A3D" stroke-width="1"/>
+      <text x="303" y="421" text-anchor="middle" class="hero-sans" font-size="12" fill="#E5B5C7">🎓 BSCS @ MUL</text>
+
+      <rect x="406" y="400" width="188" height="32" rx="16" fill="#451126" fill-opacity=".7" stroke="#701A3D" stroke-width="1"/>
+      <text x="500" y="421" text-anchor="middle" class="hero-sans" font-size="12" fill="#E5B5C7">🤖 CampusX ML &amp; DL</text>
+    </g>
+
+    <!-- Signal arc -->
+    <path d="M680 445 Q 750 360 780 280" fill="none" stroke="#701A3D" stroke-width="1" class="hero-signal"/>
+
+    <!-- Corner decorations -->
+    <g class="hero-fade d5" filter="url(#hero-glow)">
+      <circle cx="1170" cy="30" r="3" fill="#C77B9B"/>
+      <circle cx="30" cy="450" r="3" fill="#701A3D"/>
+    </g>
+  </g>
 </svg>
