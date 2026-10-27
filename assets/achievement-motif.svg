@@ -1,35 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-  <radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".5"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
-</defs>
-<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
-<circle cx="1100" cy="40" r="140" fill="url(#gl)"><animate attributeName="r" values="140;180;140" dur="7s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="ach-title ach-desc">
+  <title id="ach-title">Recognition &amp; Milestones</title>
+  <desc id="ach-desc">Completed ADP in Artificial Intelligence with CGPA 3.7/4.0. 3 Coursera certifications from Vanderbilt, IBM and Packt. CampusX ML and Deep Learning trainee since 2025. 18+ analytical graphs in US Accidents Analysis project.</desc>
 
-<!-- Achievement cards -->
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/>
-  <rect x="60" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="167" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="36" fill="#E5B5C7" font-style="italic">3.7</text>
-  <text x="167" y="126" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">CGPA / 4.0</text>
-  <text x="167" y="160" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">ADP in AI</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.4s" fill="freeze"/>
-  <rect x="335" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="462" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#E5B5C7" font-style="italic">3 Certs</text>
-  <text x="462" y="128" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">Coursera Verified</text>
-  <text x="462" y="160" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">Vanderbilt · IBM · Packt</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.6s" fill="freeze"/>
-  <rect x="610" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="737" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#E5B5C7" font-style="italic">CampusX</text>
-  <text x="737" y="128" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">ML &amp; DL Trainee</text>
-  <text x="737" y="160" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">Since 2025</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.8s" fill="freeze"/>
-  <rect x="885" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
-  <text x="1012" y="96" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#E5B5C7" font-style="italic">18+</text>
-  <text x="1012" y="124" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">Analysis Graphs</text>
-  <text x="1012" y="158" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">US Accidents Project</text>
-</g>
+  <defs>
+    <linearGradient id="ach-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <radialGradient id="ach-glow-a" cx="85%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#701A3D" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#451126" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ach-glow-b" cx="90%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#451126" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ach-hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C9A27A" stop-opacity="0"/>
+      <stop offset=".4" stop-color="#C9A27A"/>
+      <stop offset=".6" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ach-outline" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ach-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#F8F0F3" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ach-clip-a"><rect x="0" y="0" width="700" height="250" rx="16"/></clipPath>
+    <clipPath id="ach-clip-b"><rect x="0" y="0" width="476" height="250" rx="16"/></clipPath>
+    <linearGradient id="ach-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8F0F3"/><stop offset=".45" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .ach-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .ach-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ach-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ach-in { animation: ach-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .a1 { animation-delay: .1s; } .a2 { animation-delay: .35s; } .a3 { animation-delay: .6s; }
+    .ach-draw { stroke-dasharray: 1200; stroke-dashoffset: 1200; animation: ach-draw 2.6s cubic-bezier(.65,0,.35,1) .8s forwards; }
+    @keyframes ach-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes ach-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ach-in { animation: none; }
+      .ach-draw { animation: none; stroke-dashoffset: 0; }
+    }
+    .ach-trace-a { stroke-dasharray: 340 1900; stroke-dashoffset: 2240; animation: ach-trace-a 6s linear infinite; }
+    .ach-trace-b { stroke-dasharray: 260 1452; stroke-dashoffset: 1712; animation: ach-trace-b 6s linear -3s infinite; }
+    @keyframes ach-trace-a { to { stroke-dashoffset: 0; } }
+    @keyframes ach-trace-b { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ach-trace-a, .ach-trace-b { display: none; } }
+  </style>
+
+  <rect width="1200" height="430" rx="20" fill="url(#ach-bg)"/>
+  <rect x=".5" y=".5" width="1199" height="429" rx="19.5" fill="none" stroke="#C77B9B" stroke-opacity=".16"/>
+
+  <!-- Card 1: Academic Distinction (Hero Card) -->
+  <g class="ach-in a1"><g transform="translate(24 24)">
+    <g clip-path="url(#ach-clip-a)">
+      <rect width="700" height="250" fill="#190B12"/>
+      <rect width="700" height="250" fill="url(#ach-glow-a)"/>
+      <text class="ach-serif" x="684" y="124" text-anchor="end" font-size="110" font-weight="300" letter-spacing="-4" fill="url(#ach-outline)">3.7 CGPA</text>
+      <rect x="-300" y="0" width="260" height="250" fill="url(#ach-sheen)" transform="skewX(-18)">
+        <animate attributeName="x" values="-300;900;900" keyTimes="0;.35;1" dur="9s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <rect x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="#C77B9B" stroke-opacity=".38"/>
+    <rect class="ach-trace-a" x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
+    <rect x="40" y="0" width="300" height="1" fill="url(#ach-hair)"/>
+
+    <text class="ach-mono" x="38" y="44" font-size="11" letter-spacing="2.6" fill="#C77B9B">ACADEMIC DISTINCTION Â· ARTIFICIAL INTELLIGENCE</text>
+    <text class="ach-serif" x="36" y="98" font-size="38" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Associate Degree in AI</text>
+    <text class="ach-serif" x="36" y="132" font-size="22" font-style="italic" fill="#E5B5C7">CGPA 3.7 / 4.0 Â· Completed Apr 2024 â€“ Apr 2026</text>
+    <text class="ach-sans" x="38" y="166" font-size="14.5" fill="#B6A3AC">Advanced coursework in Machine Learning, Neural Networks, Computer Vision, and Applied Mathematics.</text>
+    <text class="ach-mono" x="38" y="212" font-size="11" letter-spacing="1.5" fill="#C77B9B">NOW PURSUING â†’ <tspan fill="#F8F0F3">BSCS at Minhaj University Lahore (2026â€“2028)</tspan></text>
+  </g></g>
+
+  <!-- Card 2: CampusX ML & DL Trainee -->
+  <g class="ach-in a2"><g transform="translate(748 24)">
+    <g clip-path="url(#ach-clip-b)">
+      <rect width="428" height="250" fill="#190B12"/>
+      <rect width="428" height="250" fill="url(#ach-glow-b)"/>
+      <text class="ach-serif" x="414" y="124" text-anchor="end" font-size="82" font-weight="300" letter-spacing="-3" fill="url(#ach-outline)">CAMPUSX</text>
+      <rect x="-300" y="0" width="220" height="250" fill="url(#ach-sheen)" transform="skewX(-18)">
+        <animate attributeName="x" values="-300;600;600" keyTimes="0;.35;1" dur="9s" begin="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <rect x=".5" y=".5" width="427" height="249" rx="15.5" fill="none" stroke="#C77B9B" stroke-opacity=".38"/>
+    <rect class="ach-trace-b" x=".5" y=".5" width="427" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
+
+    <text class="ach-mono" x="32" y="44" font-size="11" letter-spacing="2.6" fill="#C77B9B">INTENSIVE APPLIED TRAINING</text>
+    <text class="ach-serif" x="30" y="98" font-size="32" font-weight="300" letter-spacing="-1" fill="#F8F0F3">CampusX ML &amp; DL</text>
+    <text class="ach-serif" x="30" y="132" font-size="20" font-style="italic" fill="#E5B5C7">Trainee since 2025 Â· Hands-on</text>
+    <text class="ach-sans" x="32" y="166" font-size="14" fill="#B6A3AC">Deep dive into supervised/unsupervised learning, deep neural architectures, and real-world deployment.</text>
+    <text class="ach-mono" x="32" y="212" font-size="11" letter-spacing="1.5" fill="#E5B5C7">CODE-FIRST Â· ARCHITECTURE RIGOR</text>
+  </g></g>
+
+  <!-- Row 2: Metrics Strip -->
+  <g class="ach-in a3"><g transform="translate(24 298)">
+    <rect width="1152" height="108" rx="14" fill="#14090F" stroke="#C77B9B" stroke-opacity=".22"/>
+    <line class="ach-draw" x1="288" y1="20" x2="288" y2="88" stroke="#C77B9B" stroke-opacity=".2"/>
+    <line class="ach-draw" x1="576" y1="20" x2="576" y2="88" stroke="#C77B9B" stroke-opacity=".2"/>
+    <line class="ach-draw" x1="864" y1="20" x2="864" y2="88" stroke="#C77B9B" stroke-opacity=".2"/>
+
+    <g transform="translate(36 24)">
+      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">COURSERA VERIFIED</text>
+      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">3 Specializations</text>
+      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Vanderbilt Â· IBM Â· Packt</text>
+    </g>
+
+    <g transform="translate(324 24)">
+      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">DATA VISUALIZATION</text>
+      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">18+ In-Depth Graphs</text>
+      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">US Accidents chapter-by-chapter EDA</text>
+    </g>
+
+    <g transform="translate(612 24)">
+      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">INTELLIGENCE STACK</text>
+      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">Audio ML &amp; LLMs</text>
+      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Speech Emotion &amp; LangChain Chatbots</text>
+    </g>
+
+    <g transform="translate(900 24)">
+      <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">AUTONOMOUS AGENTS</text>
+      <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">n8n &amp; MT5 Trading</text>
+      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Automated pipelines &amp; free market APIs</text>
+    </g>
+  </g></g>
 </svg>
