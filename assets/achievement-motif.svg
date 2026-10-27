@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="ach-title ach-desc">
-  <title id="ach-title">Recognition &amp; Milestones</title>
+  <title id="ach-title">Recognition and Milestones</title>
   <desc id="ach-desc">Completed ADP in Artificial Intelligence with CGPA 3.7/4.0. 3 Coursera certifications from Vanderbilt, IBM and Packt. CampusX ML and Deep Learning trainee since 2025. 18+ analytical graphs in US Accidents Analysis project.</desc>
 
   <defs>
@@ -74,14 +74,14 @@
     <rect class="ach-trace-a" x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <rect x="40" y="0" width="300" height="1" fill="url(#ach-hair)"/>
 
-    <text class="ach-mono" x="38" y="44" font-size="11" letter-spacing="2.6" fill="#C77B9B">ACADEMIC DISTINCTION Â· ARTIFICIAL INTELLIGENCE</text>
+    <text class="ach-mono" x="38" y="44" font-size="11" letter-spacing="2.6" fill="#C77B9B">ACADEMIC DISTINCTION &#183; ARTIFICIAL INTELLIGENCE</text>
     <text class="ach-serif" x="36" y="98" font-size="38" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Associate Degree in AI</text>
-    <text class="ach-serif" x="36" y="132" font-size="22" font-style="italic" fill="#E5B5C7">CGPA 3.7 / 4.0 Â· Completed Apr 2024 â€“ Apr 2026</text>
+    <text class="ach-serif" x="36" y="132" font-size="22" font-style="italic" fill="#E5B5C7">CGPA 3.7 / 4.0 &#183; Completed Apr 2024 &#x2014; Apr 2026</text>
     <text class="ach-sans" x="38" y="166" font-size="14.5" fill="#B6A3AC">Advanced coursework in Machine Learning, Neural Networks, Computer Vision, and Applied Mathematics.</text>
-    <text class="ach-mono" x="38" y="212" font-size="11" letter-spacing="1.5" fill="#C77B9B">NOW PURSUING â†’ <tspan fill="#F8F0F3">BSCS at Minhaj University Lahore (2026â€“2028)</tspan></text>
+    <text class="ach-mono" x="38" y="212" font-size="11" letter-spacing="1.5" fill="#C77B9B">NOW PURSUING &#x21B3; <tspan fill="#F8F0F3">BSCS at Minhaj University Lahore (2026&#x2014;2028)</tspan></text>
   </g></g>
 
-  <!-- Card 2: CampusX ML & DL Trainee -->
+  <!-- Card 2: CampusX ML and DL Trainee -->
   <g class="ach-in a2"><g transform="translate(748 24)">
     <g clip-path="url(#ach-clip-b)">
       <rect width="428" height="250" fill="#190B12"/>
@@ -96,9 +96,9 @@
 
     <text class="ach-mono" x="32" y="44" font-size="11" letter-spacing="2.6" fill="#C77B9B">INTENSIVE APPLIED TRAINING</text>
     <text class="ach-serif" x="30" y="98" font-size="32" font-weight="300" letter-spacing="-1" fill="#F8F0F3">CampusX ML &amp; DL</text>
-    <text class="ach-serif" x="30" y="132" font-size="20" font-style="italic" fill="#E5B5C7">Trainee since 2025 Â· Hands-on</text>
+    <text class="ach-serif" x="30" y="132" font-size="20" font-style="italic" fill="#E5B5C7">Trainee since 2025 &#183; Hands-on</text>
     <text class="ach-sans" x="32" y="166" font-size="14" fill="#B6A3AC">Deep dive into supervised/unsupervised learning, deep neural architectures, and real-world deployment.</text>
-    <text class="ach-mono" x="32" y="212" font-size="11" letter-spacing="1.5" fill="#E5B5C7">CODE-FIRST Â· ARCHITECTURE RIGOR</text>
+    <text class="ach-mono" x="32" y="212" font-size="11" letter-spacing="1.5" fill="#E5B5C7">CODE-FIRST &#183; ARCHITECTURE RIGOR</text>
   </g></g>
 
   <!-- Row 2: Metrics Strip -->
@@ -111,7 +111,7 @@
     <g transform="translate(36 24)">
       <text class="ach-mono" font-size="10" letter-spacing="2" fill="#C77B9B">COURSERA VERIFIED</text>
       <text class="ach-serif" y="38" font-size="34" font-weight="300" fill="#F8F0F3">3 Specializations</text>
-      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Vanderbilt Â· IBM Â· Packt</text>
+      <text class="ach-sans" y="58" font-size="12" fill="#B6A3AC">Vanderbilt &#183; IBM &#183; Packt</text>
     </g>
 
     <g transform="translate(324 24)">
