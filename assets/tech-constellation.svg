@@ -56,17 +56,17 @@
     <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#C77B9B">01  CORE LANGUAGE</text>
     <text class="tc-serif" x="24" y="96" font-size="40" font-weight="300" fill="#F8F0F3">Python <tspan font-size="13" class="tc-mono" fill="#E5B5C7" dy="-18">PRIMARY</tspan></text>
     <text class="tc-serif" x="24" y="144" font-size="28" font-weight="300" fill="#F8F0F3">JavaScript</text>
-    <text class="tc-serif" x="24" y="180" font-size="22" font-weight="300" fill="#B6A3AC">SQL Â· HTML5 Â· CSS3</text>
+    <text class="tc-serif" x="24" y="180" font-size="22" font-weight="300" fill="#B6A3AC">SQL &#183; HTML5 &#183; CSS3</text>
   </g></g>
 
   <!-- Panel 2: AI, ML & LLM -->
   <g class="tc-panel tc-p2"><g transform="translate(420 32)">
     <rect width="360" height="200" rx="14" fill="#190B12" fill-opacity=".85" stroke="#C77B9B" stroke-opacity=".22"/>
     <rect class="tc-trace" style="animation-delay:-1.15s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
-    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#C77B9B">02  AI Â· ML Â· DEEP LEARNING</text>
-    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F8F0F3">OpenCV Â· Vision AI</text>
-    <text class="tc-serif" x="24" y="130" font-size="24" font-weight="300" fill="#F8F0F3">LangChain Â· Agentic AI</text>
-    <text class="tc-serif" x="24" y="164" font-size="22" font-weight="300" fill="#B6A3AC">Neural Networks Â· Audio ML</text>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#C77B9B">02  AI &#183; ML &#183; DEEP LEARNING</text>
+    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F8F0F3">OpenCV &#183; Vision AI</text>
+    <text class="tc-serif" x="24" y="130" font-size="24" font-weight="300" fill="#F8F0F3">LangChain &#183; Agentic AI</text>
+    <text class="tc-serif" x="24" y="164" font-size="22" font-weight="300" fill="#B6A3AC">Neural Networks &#183; Audio ML</text>
     <text class="tc-mono" x="24" y="188" font-size="10" letter-spacing="1.4" fill="#E5B5C7">CAMPUSX ML &amp; DL TRAINEE</text>
   </g></g>
 
@@ -77,7 +77,7 @@
     <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#C77B9B">03  DATA &amp; ANALYSIS</text>
     <text class="tc-serif" x="24" y="96" font-size="38" font-weight="300" fill="#F8F0F3">Pandas</text>
     <text class="tc-serif" x="24" y="140" font-size="26" font-weight="300" fill="#F8F0F3">NumPy</text>
-    <text class="tc-serif" x="24" y="176" font-size="22" font-weight="300" fill="#B6A3AC">Matplotlib Â· Seaborn Â· EDA</text>
+    <text class="tc-serif" x="24" y="176" font-size="22" font-weight="300" fill="#B6A3AC">Matplotlib &#183; Seaborn &#183; EDA</text>
   </g></g>
 
   <!-- Row 2 -->
@@ -97,9 +97,9 @@
     <rect width="360" height="200" rx="14" fill="#190B12" fill-opacity=".85" stroke="#C77B9B" stroke-opacity=".22"/>
     <rect class="tc-trace" style="animation-delay:-4.60s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
     <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#C77B9B">05  TOOLS &amp; WORKFLOW</text>
-    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F8F0F3">Git Â· GitHub</text>
-    <text class="tc-serif" x="24" y="130" font-size="24" font-weight="300" fill="#F8F0F3">VS Code Â· Jupyter</text>
-    <text class="tc-serif" x="24" y="164" font-size="22" font-weight="300" fill="#B6A3AC">REST APIs Â· Environment Setup</text>
+    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F8F0F3">Git &#183; GitHub</text>
+    <text class="tc-serif" x="24" y="130" font-size="24" font-weight="300" fill="#F8F0F3">VS Code &#183; Jupyter</text>
+    <text class="tc-serif" x="24" y="164" font-size="22" font-weight="300" fill="#B6A3AC">REST APIs &#183; Environment Setup</text>
     <text class="tc-mono" x="24" y="188" font-size="10" letter-spacing="1.4" fill="#B6A3AC">IBM PYTHON CERTIFIED</text>
   </g></g>
 
@@ -110,6 +110,6 @@
     <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#C77B9B">06  WEB &amp; DEPLOYMENT</text>
     <text class="tc-serif" x="24" y="96" font-size="38" font-weight="300" fill="#F8F0F3">Vercel</text>
     <text class="tc-serif" x="24" y="140" font-size="26" font-weight="300" fill="#F8F0F3">Web Development</text>
-    <text class="tc-serif" x="24" y="176" font-size="22" font-weight="300" fill="#B6A3AC">Modern UI Â· Responsive Design</text>
+    <text class="tc-serif" x="24" y="176" font-size="22" font-weight="300" fill="#B6A3AC">Modern UI &#183; Responsive Design</text>
   </g></g>
 </svg>

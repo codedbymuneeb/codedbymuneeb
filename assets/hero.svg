@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="hero-title hero-desc">
-  <title id="hero-title">M.Muneeb Tariq — Engineering intelligence. Building real projects.</title>
+  <title id="hero-title">M.Muneeb Tariq &#x2014; Engineering intelligence. Building real projects.</title>
   <desc id="hero-desc">AI and ML Engineer and Web Developer. BSCS at Minhaj University Lahore. CampusX ML and DL Trainee.</desc>
 
   <defs>
@@ -145,7 +145,7 @@
       <path d="M847 380 V202 A118 118 0 0 1 1083 202 V380" fill="none" stroke="url(#hero-frame-grad)" stroke-width="2.5" class="hero-frame"/>
     </g>
     <g class="hero-rise d1">
-      <text x="60" y="90" class="hero-sans" font-size="12" letter-spacing="6" fill="#C77B9B">AI &amp; ML ENGINEER · WEB DEVELOPER</text>
+      <text x="60" y="90" class="hero-sans" font-size="12" letter-spacing="6" fill="#C77B9B">AI &amp; ML ENGINEER &#183; WEB DEVELOPER</text>
     </g>
     <g class="hero-rise d2">
       <text x="60" y="195" class="hero-serif" font-size="78" fill="url(#hero-name-grad)">M.Muneeb</text>

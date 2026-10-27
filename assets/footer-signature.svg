@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="sig-title">
-  <title id="sig-title">Muneeb â€” Building AI systems that actually work.</title>
+  <title id="sig-title">Muneeb &#8212; Building AI systems that actually work.</title>
   <defs>
     <linearGradient id="sig-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#10070C"/>
@@ -67,6 +67,6 @@
 
   <g class="sig-in">
     <text class="sig-serif" x="600" y="176" text-anchor="middle" font-size="20" font-style="italic" fill="#F8F0F3">Building AI systems that actually work.</text>
-    <text class="sig-mono" x="600" y="206" text-anchor="middle" font-size="11" letter-spacing="3" fill="#B6A3AC">ENGINEERING INTELLIGENCE Â· BUILDING REAL PROJECTS</text>
+    <text class="sig-mono" x="600" y="206" text-anchor="middle" font-size="11" letter-spacing="3" fill="#B6A3AC">ENGINEERING INTELLIGENCE &#183; BUILDING REAL PROJECTS</text>
   </g>
 </svg>

@@ -41,10 +41,10 @@
     <rect class="p1-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p1-trace)" stroke-width="1.8"/>
 
     <g class="p1-in p1-d1">
-      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">01 Â· AUDIO ML Â· DEEP LEARNING Â· 2026</text>
+      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">01 &#183; AUDIO ML &#183; DEEP LEARNING &#183; 2026</text>
       <text class="p1-serif" x="54" y="126" font-size="48" font-weight="300" letter-spacing="-1.5" fill="#F8F0F3">Speech Emotion Recognition</text>
       <text class="p1-sans" x="56" y="166" font-size="16.5" fill="#B6A3AC">Detects emotion from a speaker's voice using audio features and a deep neural network.</text>
-      <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">ARCHITECTURE â†’</tspan> MFCC feature extraction + Mel-Spectrograms + Deep Audio Classifier</text>
+      <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">ARCHITECTURE &#8594;</tspan> MFCC feature extraction + Mel-Spectrograms + Deep Audio Classifier</text>
       <line class="p1-draw" x1="56" y1="226" x2="680" y2="226" stroke="#C77B9B" stroke-opacity=".3"/>
       
       <g transform="translate(56 266)">

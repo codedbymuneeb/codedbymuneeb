@@ -38,10 +38,10 @@
     <rect class="p3-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p3-trace)" stroke-width="1.8"/>
 
     <g class="p3-in p3-d1">
-      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">03 Â· COMPUTER VISION Â· REAL-TIME AI Â· 2026</text>
+      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">03 &#183; COMPUTER VISION &#183; REAL-TIME AI &#183; 2026</text>
       <text class="p3-serif" x="54" y="126" font-size="48" font-weight="300" letter-spacing="-1.5" fill="#F8F0F3">Computer Vision</text>
       <text class="p3-sans" x="56" y="166" font-size="16.5" fill="#B6A3AC">Image and video processing, feature detection, and object tracking pipelines.</text>
-      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">PIPELINE â†’</tspan> OpenCV edge filtering + contour tracking + morphological transforms</text>
+      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">PIPELINE &#8594;</tspan> OpenCV edge filtering + contour tracking + morphological transforms</text>
       <line class="p3-draw" x1="56" y1="226" x2="680" y2="226" stroke="#C77B9B" stroke-opacity=".3"/>
 
       <g transform="translate(56 266)">

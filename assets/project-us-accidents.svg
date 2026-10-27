@@ -38,10 +38,10 @@
     <rect class="p4-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p4-trace)" stroke-width="1.8"/>
 
     <g class="p4-in p4-d1">
-      <text class="p4-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">04 Â· DATA ANALYSIS Â· EDA Â· VISUALIZATION Â· 2025</text>
+      <text class="p4-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#C77B9B">04 &#183; DATA ANALYSIS &#183; EDA &#183; VISUALIZATION &#183; 2025</text>
       <text class="p4-serif" x="54" y="126" font-size="48" font-weight="300" letter-spacing="-1.5" fill="#F8F0F3">US Accidents Analysis</text>
       <text class="p4-sans" x="56" y="166" font-size="16.5" fill="#B6A3AC">Beginner-friendly, deep exploratory analysis uncovering insights across nationwide traffic incidents.</text>
-      <text class="p4-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">STRUCTURE â†’</tspan> Chapter-by-chapter notebook with 18+ comprehensive statistical graphs</text>
+      <text class="p4-mono" x="56" y="200" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">STRUCTURE &#8594;</tspan> Chapter-by-chapter notebook with 18+ comprehensive statistical graphs</text>
       <line class="p4-draw" x1="56" y1="226" x2="680" y2="226" stroke="#C77B9B" stroke-opacity=".3"/>
 
       <g transform="translate(56 266)">
