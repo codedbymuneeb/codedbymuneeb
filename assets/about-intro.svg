@@ -1,5 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="300" rx="22" fill="url(#bg)"/><circle cx="1050" cy="60" r="150" fill="url(#gl)"><animate attributeName="r" values="150;190;150" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="7s" repeatCount="indefinite"/></circle><text x="60" y="70" font-family="Georgia,'Times New Roman',serif" font-size="30" font-style="italic" fill="#F8F0F3">AI &amp; ML Engineer and Web Developer.</text><text x="60" y="108" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#B6A3AC">Student by degree, builder by habit. I turn ML ideas into working projects.</text><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.3s" fill="freeze"/><rect x="60" y="145" width="260" height="130" rx="16" fill="#451126" fill-opacity=".55" stroke="#701A3D"/><text x="80" y="185" font-family="Georgia,'Times New Roman',serif" font-size="26" fill="#E5B5C7" font-style="italic">BSCS</text><foreignObject x="80" y="198" width="225" height="70"><div xmlns="http://www.w3.org/1999/xhtml" style="font:14px Segoe UI,Arial,sans-serif;color:#B6A3AC;line-height:1.4">Minhaj University Lahore, 2026–2028</div></foreignObject></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.55s" fill="freeze"/><rect x="340" y="145" width="260" height="130" rx="16" fill="#451126" fill-opacity=".55" stroke="#701A3D"/><text x="360" y="185" font-family="Georgia,'Times New Roman',serif" font-size="26" fill="#E5B5C7" font-style="italic">ADP in AI</text><foreignObject x="360" y="198" width="225" height="70"><div xmlns="http://www.w3.org/1999/xhtml" style="font:14px Segoe UI,Arial,sans-serif;color:#B6A3AC;line-height:1.4">Completed Apr 2026 · CGPA 3.7 / 4.0</div></foreignObject></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.8s" fill="freeze"/><rect x="620" y="145" width="260" height="130" rx="16" fill="#451126" fill-opacity=".55" stroke="#701A3D"/><text x="640" y="185" font-family="Georgia,'Times New Roman',serif" font-size="26" fill="#E5B5C7" font-style="italic">CampusX</text><foreignObject x="640" y="198" width="225" height="70"><div xmlns="http://www.w3.org/1999/xhtml" style="font:14px Segoe UI,Arial,sans-serif;color:#B6A3AC;line-height:1.4">ML &amp; Deep Learning trainee since 2025</div></foreignObject></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.05s" fill="freeze"/><rect x="900" y="145" width="260" height="130" rx="16" fill="#451126" fill-opacity=".55" stroke="#701A3D"/><text x="920" y="185" font-family="Georgia,'Times New Roman',serif" font-size="26" fill="#E5B5C7" font-style="italic">Focus</text><foreignObject x="920" y="198" width="225" height="70"><div xmlns="http://www.w3.org/1999/xhtml" style="font:14px Segoe UI,Arial,sans-serif;color:#B6A3AC;line-height:1.4">Speech emotion · LLM chatbots · Computer vision</div></foreignObject></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".5"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<circle cx="1080" cy="60" r="160" fill="url(#gl)"><animate attributeName="r" values="160;200;160" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;.9;.5" dur="7s" repeatCount="indefinite"/></circle>
+
+<!-- Intro text -->
+<text x="60" y="70" font-family="Georgia,'Times New Roman',serif" font-size="28" font-style="italic" fill="#F8F0F3">AI &amp; ML Engineer and Web Developer.</text>
+<text x="60" y="105" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#B6A3AC">Student by degree, builder by habit. I turn ML ideas into working, deployable systems.</text>
+
+<!-- Cards -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.3s" fill="freeze"/>
+  <rect x="60" y="148" width="255" height="148" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="80" y="192" font-family="Georgia,'Times New Roman',serif" font-size="24" fill="#E5B5C7" font-style="italic">BSCS</text>
+  <text x="80" y="218" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">Minhaj University Lahore</text>
+  <text x="80" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">2026 – 2028</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.55s" fill="freeze"/>
+  <rect x="335" y="148" width="255" height="148" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="355" y="192" font-family="Georgia,'Times New Roman',serif" font-size="24" fill="#E5B5C7" font-style="italic">ADP in AI</text>
+  <text x="355" y="218" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">Completed April 2026</text>
+  <text x="355" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">CGPA 3.7 / 4.0</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.8s" fill="freeze"/>
+  <rect x="610" y="148" width="255" height="148" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="630" y="192" font-family="Georgia,'Times New Roman',serif" font-size="24" fill="#E5B5C7" font-style="italic">CampusX</text>
+  <text x="630" y="218" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">ML &amp; Deep Learning Trainee</text>
+  <text x="630" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">Since 2025</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.05s" fill="freeze"/>
+  <rect x="885" y="148" width="255" height="148" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="905" y="192" font-family="Georgia,'Times New Roman',serif" font-size="24" fill="#E5B5C7" font-style="italic">Focus</text>
+  <text x="905" y="218" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">Speech Emotion · LLM Chatbots</text>
+  <text x="905" y="236" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#B6A3AC">Computer Vision · Agentic AI</text>
+</g>
+</svg>

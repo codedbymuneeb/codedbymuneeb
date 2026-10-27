@@ -1,13 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="420" rx="22" fill="url(#bg)"/><circle cx="980" cy="110" r="160" fill="url(#gl)"><animate attributeName="r" values="160;200;160" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="6s" repeatCount="indefinite"/></circle><circle cx="120" cy="360" r="140" fill="url(#gl)"><animate attributeName="r" values="140;180;140" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="8s" repeatCount="indefinite"/></circle><circle cx="980" cy="210" r="120" fill="none" stroke="#701A3D" stroke-width="2" stroke-dasharray="6 10"><animateTransform attributeName="transform" type="rotate" from="0 980 210" to="360 980 210" dur="24s" repeatCount="indefinite"/></circle>
-<circle cx="980" cy="210" r="96" fill="#451126" stroke="url(#ac)" stroke-width="3"/>
-<text x="980" y="238" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="76" fill="#E5B5C7" font-style="italic">MT</text>
-<text x="70" y="90" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" letter-spacing="6" fill="#C77B9B" opacity="0">AI &amp; ML ENGINEER · WEB DEVELOPER<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/></text>
-<text x="70" y="190" font-family="Georgia,'Times New Roman',serif" font-size="84" fill="#F8F0F3" opacity="0">Muneeb Tariq<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.6s" fill="freeze"/></text>
-<rect x="70" y="214" width="0" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" from="0" to="420" dur="1.4s" begin="1s" fill="freeze"/></rect>
-<text x="70" y="275" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic" fill="#E5B5C7" opacity="0">Engineering intelligence.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.4s" fill="freeze"/></text>
-<text x="70" y="320" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic" fill="#C77B9B" opacity="0">Building real projects.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2s" fill="freeze"/></text>
-<text x="70" y="378" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#B6A3AC" opacity="0">Lahore, Pakistan  ·  BSCS @ Minhaj University  ·  CampusX ML &amp; DL<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.6s" fill="freeze"/></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".6"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gl2"><stop offset="0" stop-color="#C77B9B" stop-opacity=".35"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/></radialGradient>
+  <clipPath id="portraitClip"><circle cx="940" cy="240" r="175"/></clipPath>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="480" fill="url(#bg)"/>
+
+<!-- Ambient glows -->
+<circle cx="200" cy="400" r="220" fill="url(#gl)"><animate attributeName="r" values="220;270;220" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;.9;.5" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="940" cy="240" r="230" fill="url(#gl)"><animate attributeName="r" values="230;270;230" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="100" r="120" fill="url(#gl2)"><animate attributeName="r" values="120;160;120" dur="10s" repeatCount="indefinite"/></circle>
+
+<!-- Decorative rotating ring around portrait -->
+<circle cx="940" cy="240" r="198" fill="none" stroke="#701A3D" stroke-width="1.5" stroke-dasharray="8 14" opacity=".7"><animateTransform attributeName="transform" type="rotate" from="0 940 240" to="360 940 240" dur="22s" repeatCount="indefinite"/></circle>
+<circle cx="940" cy="240" r="214" fill="none" stroke="#C77B9B" stroke-width="1" stroke-dasharray="3 20" opacity=".4"><animateTransform attributeName="transform" type="rotate" from="360 940 240" to="0 940 240" dur="30s" repeatCount="indefinite"/></circle>
+
+<!-- Portrait circle border -->
+<circle cx="940" cy="240" r="178" fill="none" stroke="url(#ac)" stroke-width="4" filter="url(#glow)"/>
+<circle cx="940" cy="240" r="178" fill="#451126" fill-opacity=".5"/>
+
+<!-- GitHub profile picture (codedbymuneeb) -->
+<image href="https://avatars.githubusercontent.com/codedbymuneeb" x="763" y="63" width="354" height="354" clip-path="url(#portraitClip)" preserveAspectRatio="xMidYMid slice"/>
+
+<!-- Floating dots / particles -->
+<circle cx="720" cy="80" r="3" fill="#C77B9B" opacity=".6"><animate attributeName="opacity" values=".3;.8;.3" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1160" cy="160" r="4" fill="#701A3D" opacity=".7"><animate attributeName="opacity" values=".4;1;.4" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="420" r="2.5" fill="#E5B5C7" opacity=".5"><animate attributeName="opacity" values=".2;.7;.2" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1150" cy="390" r="3" fill="#C77B9B" opacity=".5"><animate attributeName="opacity" values=".3;.8;.3" dur="3.5s" repeatCount="indefinite"/></circle>
+
+<!-- Text content (left side) -->
+<!-- Tagline -->
+<text x="70" y="90" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" letter-spacing="7" fill="#C77B9B" opacity="0">AI &amp; ML ENGINEER · WEB DEVELOPER<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/></text>
+
+<!-- Name -->
+<text x="70" y="200" font-family="Georgia,'Times New Roman',serif" font-size="82" fill="#F8F0F3" opacity="0">Muneeb Tariq<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.6s" fill="freeze"/></text>
+
+<!-- Gradient underline -->
+<rect x="70" y="218" width="0" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" from="0" to="460" dur="1.4s" begin="1s" fill="freeze"/></rect>
+
+<!-- Taglines -->
+<text x="70" y="278" font-family="Georgia,'Times New Roman',serif" font-size="30" font-style="italic" fill="#E5B5C7" opacity="0">Engineering intelligence.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.4s" fill="freeze"/></text>
+<text x="70" y="322" font-family="Georgia,'Times New Roman',serif" font-size="30" font-style="italic" fill="#C77B9B" opacity="0">Designing real-world AI systems.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.8s" fill="freeze"/></text>
+
+<!-- Info pills -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.2s" fill="freeze"/>
+  <rect x="70" y="360" width="170" height="36" rx="18" fill="#451126" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="155" y="383" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#E5B5C7">📍 Lahore, PK</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.5s" fill="freeze"/>
+  <rect x="254" y="360" width="200" height="36" rx="18" fill="#451126" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="354" y="383" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#E5B5C7">🎓 BSCS @ MUL</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="2.8s" fill="freeze"/>
+  <rect x="468" y="360" width="200" height="36" rx="18" fill="#451126" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="568" y="383" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#E5B5C7">🤖 CampusX ML &amp; DL</text>
+</g>
+
+<!-- Bottom tagline -->
+<text x="70" y="448" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B6A3AC" opacity="0">Open to collaborate · Always learning · Building AI that actually works<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="3.2s" fill="freeze"/></text>
+</svg>

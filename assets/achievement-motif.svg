@@ -1,5 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="300" rx="22" fill="url(#bg)"/><circle cx="150" cy="200" r="150" fill="url(#gl)"><animate attributeName="r" values="150;190;150" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="9s" repeatCount="indefinite"/></circle><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/><rect x="50" y="40" width="265" height="220" rx="18" fill="#451126" fill-opacity=".5" stroke="#701A3D"/><text x="75" y="125" font-family="Georgia,'Times New Roman',serif" font-size="64" fill="#F8F0F3" font-style="italic">3.7</text><text x="75" y="170" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#E5B5C7">CGPA / 4.0</text><text x="75" y="198" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B6A3AC">ADP in Artificial Intelligence</text><rect x="75" y="222" width="0" height="3" fill="url(#ac)"><animate attributeName="width" from="0" to="60" dur="1s" begin="0.8s" fill="freeze"/></rect></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.5s" fill="freeze"/><rect x="335" y="40" width="265" height="220" rx="18" fill="#451126" fill-opacity=".5" stroke="#701A3D"/><text x="360" y="125" font-family="Georgia,'Times New Roman',serif" font-size="64" fill="#F8F0F3" font-style="italic">3</text><text x="360" y="170" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#E5B5C7">Coursera certificates</text><text x="360" y="198" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B6A3AC">Vanderbilt · IBM · Packt</text><rect x="360" y="222" width="0" height="3" fill="url(#ac)"><animate attributeName="width" from="0" to="60" dur="1s" begin="1.1s" fill="freeze"/></rect></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.8s" fill="freeze"/><rect x="620" y="40" width="265" height="220" rx="18" fill="#451126" fill-opacity=".5" stroke="#701A3D"/><text x="645" y="125" font-family="Georgia,'Times New Roman',serif" font-size="64" fill="#F8F0F3" font-style="italic">2025</text><text x="645" y="170" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#E5B5C7">ML &amp; DL training</text><text x="645" y="198" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B6A3AC">CampusX, ongoing</text><rect x="645" y="222" width="0" height="3" fill="url(#ac)"><animate attributeName="width" from="0" to="60" dur="1s" begin="1.4s" fill="freeze"/></rect></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.0999999999999999s" fill="freeze"/><rect x="905" y="40" width="265" height="220" rx="18" fill="#451126" fill-opacity=".5" stroke="#701A3D"/><text x="930" y="125" font-family="Georgia,'Times New Roman',serif" font-size="64" fill="#F8F0F3" font-style="italic">18</text><text x="930" y="170" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#E5B5C7">Graphs in one project</text><text x="930" y="198" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B6A3AC">US Accidents analysis</text><rect x="930" y="222" width="0" height="3" fill="url(#ac)"><animate attributeName="width" from="0" to="60" dur="1s" begin="1.7s" fill="freeze"/></rect></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".5"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+<circle cx="1100" cy="40" r="140" fill="url(#gl)"><animate attributeName="r" values="140;180;140" dur="7s" repeatCount="indefinite"/></circle>
+
+<!-- Achievement cards -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/>
+  <rect x="60" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="167" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="36" fill="#E5B5C7" font-style="italic">3.7</text>
+  <text x="167" y="126" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">CGPA / 4.0</text>
+  <text x="167" y="160" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">ADP in AI</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.4s" fill="freeze"/>
+  <rect x="335" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="462" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#E5B5C7" font-style="italic">3 Certs</text>
+  <text x="462" y="128" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">Coursera Verified</text>
+  <text x="462" y="160" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">Vanderbilt · IBM · Packt</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.6s" fill="freeze"/>
+  <rect x="610" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="737" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#E5B5C7" font-style="italic">CampusX</text>
+  <text x="737" y="128" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">ML &amp; DL Trainee</text>
+  <text x="737" y="160" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">Since 2025</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.8s" fill="freeze"/>
+  <rect x="885" y="40" width="255" height="180" rx="18" fill="#451126" fill-opacity=".6" stroke="#701A3D" stroke-width="1.5"/>
+  <text x="1012" y="96" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#E5B5C7" font-style="italic">18+</text>
+  <text x="1012" y="124" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#B6A3AC">Analysis Graphs</text>
+  <text x="1012" y="158" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#C77B9B">US Accidents Project</text>
+</g>
+</svg>

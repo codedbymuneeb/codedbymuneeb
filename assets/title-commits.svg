@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="130" rx="22" fill="url(#bg)"/><text x="50" y="78" font-family="Georgia,'Times New Roman',serif" font-size="64" fill="#701A3D" opacity="0">05<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0s" fill="freeze"/></text>
-<text x="150" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" letter-spacing="5" fill="#C77B9B" opacity="0">COMMIT LOG<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.3s" fill="freeze"/></text>
-<text x="150" y="92" font-family="Georgia,'Times New Roman',serif" font-size="34" font-style="italic" fill="#F8F0F3" opacity="0">A year of building.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.5s" fill="freeze"/></text>
-<rect x="50" y="108" width="0" height="3" rx="1.5" fill="url(#ac)"><animate attributeName="width" from="0" to="1100" dur="1.6s" begin=".4s" fill="freeze"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+</defs>
+<rect width="1200" height="90" rx="14" fill="url(#bg)"/>
+<rect x="60" y="42" width="4" height="32" rx="2" fill="url(#ac)"/>
+<text x="80" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="5" fill="#701A3D">05</text>
+<text x="80" y="74" font-family="Georgia,'Times New Roman',serif" font-size="28" fill="#F8F0F3">Commit Log — <tspan font-style="italic" fill="#E5B5C7">A year of building.</tspan></text>
+</svg>

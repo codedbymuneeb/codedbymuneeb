@@ -1,5 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="230" rx="22" fill="url(#bg)"/><circle cx="1080" cy="40" r="170" fill="url(#gl)"><animate attributeName="r" values="170;210;170" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="8s" repeatCount="indefinite"/></circle><text x="1130" y="60" text-anchor="end" font-family="Georgia,'Times New Roman',serif" font-size="80" fill="#701A3D" fill-opacity=".5" font-style="italic">03</text><text x="50" y="75" font-family="Georgia,'Times New Roman',serif" font-size="38" fill="#F8F0F3" opacity="0">Computer Vision<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.2s" fill="freeze"/></text><text x="50" y="115" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#B6A3AC" opacity="0">Image and video processing and detection projects built with OpenCV.<animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.5s" fill="freeze"/></text><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="0.8s" fill="freeze"/><rect x="50" y="150" width="75.19999999999999" height="30" rx="15" fill="#451126" stroke="#701A3D"/><text x="87.6" y="170" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E5B5C7">Python</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.0s" fill="freeze"/><rect x="135.2" y="150" width="75.19999999999999" height="30" rx="15" fill="#451126" stroke="#701A3D"/><text x="172.79999999999998" y="170" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E5B5C7">OpenCV</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.2000000000000002s" fill="freeze"/><rect x="220.39999999999998" y="150" width="149.0" height="30" rx="15" fill="#451126" stroke="#701A3D"/><text x="294.9" y="170" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E5B5C7">Computer Vision</text></g><rect x="50" y="205" width="0" height="3" rx="1.5" fill="url(#ac)"><animate attributeName="width" from="0" to="1100" dur="1.5s" begin=".3s" fill="freeze"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#241019"/><stop offset="1" stop-color="#190B12"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <radialGradient id="gl"><stop offset="0" stop-color="#701A3D" stop-opacity=".4"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+<circle cx="1050" cy="220" r="130" fill="url(#gl)"><animate attributeName="r" values="130;170;130" dur="8s" repeatCount="indefinite"/></circle>
+
+<rect x="60" y="28" width="230" height="28" rx="14" fill="#451126" stroke="#701A3D" stroke-width="1"/>
+<text x="175" y="47" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" letter-spacing="2" fill="#C77B9B">OPENCV · COMPUTER VISION</text>
+
+<text x="60" y="96" font-family="Georgia,'Times New Roman',serif" font-size="36" fill="#F8F0F3">Computer Vision</text>
+<rect x="60" y="106" width="310" height="3" rx="1.5" fill="url(#ac)"/>
+
+<text x="60" y="140" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#B6A3AC">Image and video processing, object detection and tracking projects built</text>
+<text x="60" y="162" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#B6A3AC">with OpenCV. Real-time inference pipelines with Python.</text>
+
+<rect x="60" y="182" width="80" height="26" rx="13" fill="#451126" stroke="#701A3D"/>
+<text x="100" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#E5B5C7">Python</text>
+<rect x="152" y="182" width="90" height="26" rx="13" fill="#451126" stroke="#701A3D"/>
+<text x="197" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#E5B5C7">OpenCV</text>
+<rect x="254" y="182" width="150" height="26" rx="13" fill="#451126" stroke="#701A3D"/>
+<text x="329" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="12" fill="#E5B5C7">Computer Vision</text>
+</svg>
