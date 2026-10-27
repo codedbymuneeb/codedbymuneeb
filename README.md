@@ -18,28 +18,28 @@
 <img src="assets/title-work.svg?v=2" width="100%" alt="03 Selected work — Products, not assignments.">
 
 <a href="https://github.com/codedbymuneeb/1-100-Days-of-Deep-Learning">
-  <img src="assets/project-speech-emotion.svg?v=2" width="100%" alt="Speech Emotion Recognition: detects emotion from a speaker's voice using audio features and a trained deep learning model.">
+  <img src="assets/project-speech-emotion.svg?v=3" width="100%" alt="Speech Emotion Recognition: detects emotion from a speaker's voice using audio features and a trained deep learning model.">
 </a>
 <p align="center">
   <a href="https://github.com/codedbymuneeb/1-100-Days-of-Deep-Learning"><img src="https://img.shields.io/badge/Repository-Speech_Emotion_Recognition-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Speech Emotion Recognition repository"></a>
 </p>
 
 <a href="https://github.com/codedbymuneeb/Generative-Ai-with-Langhcain">
-  <img src="assets/project-llm-chatbot.svg?v=2" width="100%" alt="LLM Chatbot: a conversational assistant built on large language models with LangChain and context memory.">
+  <img src="assets/project-llm-chatbot.svg?v=3" width="100%" alt="LLM Chatbot: a conversational assistant built on large language models with LangChain and context memory.">
 </a>
 <p align="center">
   <a href="https://github.com/codedbymuneeb/Generative-Ai-with-Langhcain"><img src="https://img.shields.io/badge/Repository-LLM_Chatbot-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="LLM Chatbot repository"></a>
 </p>
 
 <a href="https://github.com/codedbymuneeb/COMPUTER-VISION">
-  <img src="assets/project-computer-vision.svg?v=2" width="100%" alt="Computer Vision: real-time image and video processing and object tracking pipelines built with OpenCV.">
+  <img src="assets/project-computer-vision.svg?v=3" width="100%" alt="Computer Vision: real-time image and video processing and object tracking pipelines built with OpenCV.">
 </a>
 <p align="center">
   <a href="https://github.com/codedbymuneeb/COMPUTER-VISION"><img src="https://img.shields.io/badge/Repository-Computer_Vision-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Computer Vision repository"></a>
 </p>
 
 <a href="https://github.com/codedbymuneeb/100-Days-of-Machine--Learning">
-  <img src="assets/project-us-accidents.svg?v=2" width="100%" alt="US Accidents Analysis: comprehensive exploratory data analysis with 18+ graphs, organized chapter by chapter.">
+  <img src="assets/project-us-accidents.svg?v=3" width="100%" alt="US Accidents Analysis: comprehensive exploratory data analysis with 18+ graphs, organized chapter by chapter.">
 </a>
 <p align="center">
   <a href="https://github.com/codedbymuneeb/100-Days-of-Machine--Learning"><img src="https://img.shields.io/badge/Repository-US_Accidents_Analysis-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="US Accidents Analysis repository"></a>

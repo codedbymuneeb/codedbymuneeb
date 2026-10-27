@@ -24,7 +24,7 @@
     .p2-chip { animation: p2-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
     @keyframes p2-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
     .p2-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p2-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
-    @keyframes p2-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes p2-in { from { opacity: 0; } to { opacity: 1; } }
     @keyframes p2-draw { to { stroke-dashoffset: 0; } }
     @media (prefers-reduced-motion: reduce) { .p2-in, .p2-chip { animation: none; } .p2-draw { animation: none; stroke-dashoffset: 0; } }
     .p2-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p2-trace 7s linear infinite; }
@@ -65,42 +65,44 @@
     </g>
 
     <!-- Visual Graphic: LLM Chain Flow Cards -->
-    <g class="p2-in p2-d2" transform="translate(800 55)">
-      <rect width="340" height="260" rx="14" fill="#140810" stroke="#C77B9B" stroke-opacity=".3"/>
-      <path d="M0 14 a14 14 0 0 1 14 -14 H326 a14 14 0 0 1 14 14 V34 H0 Z" fill="#210D18"/>
-      <circle cx="20" cy="17" r="4.5" fill="#701A3D"/><circle cx="35" cy="17" r="4.5" fill="#451126"/><circle cx="50" cy="17" r="4.5" fill="#451126"/>
-      <text class="p2-mono" x="170" y="21" text-anchor="middle" font-size="10.5" letter-spacing="1.5" fill="#B6A3AC">LANGCHAIN REASONING LOOP</text>
+    <g transform="translate(800 55)">
+      <g class="p2-in p2-d2">
+        <rect width="340" height="260" rx="14" fill="#140810" stroke="#C77B9B" stroke-opacity=".3"/>
+        <path d="M0 14 a14 14 0 0 1 14 -14 H326 a14 14 0 0 1 14 14 V34 H0 Z" fill="#210D18"/>
+        <circle cx="20" cy="17" r="4.5" fill="#701A3D"/><circle cx="35" cy="17" r="4.5" fill="#451126"/><circle cx="50" cy="17" r="4.5" fill="#451126"/>
+        <text class="p2-mono" x="170" y="21" text-anchor="middle" font-size="10.5" letter-spacing="1.5" fill="#B6A3AC">LANGCHAIN REASONING LOOP</text>
 
-      <!-- Message 1: User -->
-      <g transform="translate(20 50)">
-        <rect width="250" height="52" rx="10" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/>
-        <text class="p2-mono" x="14" y="22" font-size="11" fill="#E5B5C7">USER PROMPT</text>
-        <text class="p2-sans" x="14" y="40" font-size="12" fill="#F8F0F3">"Synthesize key insights with context"</text>
-      </g>
+        <!-- Message 1: User -->
+        <g transform="translate(20 50)">
+          <rect width="250" height="52" rx="10" fill="#27101C" stroke="#C77B9B" stroke-opacity=".35"/>
+          <text class="p2-mono" x="14" y="22" font-size="11" fill="#E5B5C7">USER PROMPT</text>
+          <text class="p2-sans" x="14" y="40" font-size="12" fill="#F8F0F3">"Synthesize key insights with context"</text>
+        </g>
 
-      <!-- Connecting signal pipe -->
-      <path d="M145 102 V128" stroke="#E5B5C7" stroke-width="1.5" stroke-dasharray="4 4">
-        <animate attributeName="stroke-dashoffset" values="0;8" dur="1s" repeatCount="indefinite"/>
-      </path>
+        <!-- Connecting signal pipe -->
+        <path d="M145 102 V128" stroke="#E5B5C7" stroke-width="1.5" stroke-dasharray="4 4">
+          <animate attributeName="stroke-dashoffset" values="0;8" dur="1s" repeatCount="indefinite"/>
+        </path>
 
-      <!-- Memory / Chain node -->
-      <g transform="translate(45 128)">
-        <rect width="250" height="42" rx="8" fill="#1F0B18" stroke="#701A3D" stroke-width="1.4"/>
-        <circle cx="20" cy="21" r="5" fill="#E5B5C7">
-          <animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/>
-        </circle>
-        <text class="p2-mono" x="35" y="25" font-size="11" fill="#F8F0F3">LangChain Memory Buffer + Tools</text>
-      </g>
+        <!-- Memory / Chain node -->
+        <g transform="translate(45 128)">
+          <rect width="250" height="42" rx="8" fill="#1F0B18" stroke="#701A3D" stroke-width="1.4"/>
+          <circle cx="20" cy="21" r="5" fill="#E5B5C7">
+            <animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/>
+          </circle>
+          <text class="p2-mono" x="35" y="25" font-size="11" fill="#F8F0F3">LangChain Memory Buffer + Tools</text>
+        </g>
 
-      <path d="M145 170 V196" stroke="#E5B5C7" stroke-width="1.5" stroke-dasharray="4 4">
-        <animate attributeName="stroke-dashoffset" values="0;8" dur="1s" repeatCount="indefinite"/>
-      </path>
+        <path d="M145 170 V196" stroke="#E5B5C7" stroke-width="1.5" stroke-dasharray="4 4">
+          <animate attributeName="stroke-dashoffset" values="0;8" dur="1s" repeatCount="indefinite"/>
+        </path>
 
-      <!-- Message 2: Model Assistant -->
-      <g transform="translate(70 196)">
-        <rect width="250" height="52" rx="10" fill="#331425" stroke="#E5B5C7" stroke-opacity=".5"/>
-        <text class="p2-mono" x="14" y="22" font-size="11" fill="#C77B9B">ASSISTANT RESPONSE</text>
-        <text class="p2-sans" x="14" y="40" font-size="12" fill="#F8F0F3">"Structured response delivered with facts."</text>
+        <!-- Message 2: Model Assistant -->
+        <g transform="translate(70 196)">
+          <rect width="250" height="52" rx="10" fill="#331425" stroke="#E5B5C7" stroke-opacity=".5"/>
+          <text class="p2-mono" x="14" y="22" font-size="11" fill="#C77B9B">ASSISTANT RESPONSE</text>
+          <text class="p2-sans" x="14" y="40" font-size="12" fill="#F8F0F3">"Structured response delivered with facts."</text>
+        </g>
       </g>
     </g>
   </g>
